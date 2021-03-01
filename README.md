@@ -1,2 +1,2 @@
-# flash_chat
+# Group Chat App
 
