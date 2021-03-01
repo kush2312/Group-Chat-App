@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047442522471",
+    "firebase_url": "https://flash-chat-44a8d.firebaseio.com",
+    "project_id": "flash-chat-44a8d",
+    "storage_bucket": "flash-chat-44a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047442522471:android:e50cbe7f13036f3cef2fc2",
+        "android_client_info": {
+          "package_name": "com.dabade_kush.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047442522471-9udo8cpmgie7abrh6i0a22kg08ej3e62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATp25jltGRqpyPyMac9GwvQ6K1mYK-f0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047442522471-9udo8cpmgie7abrh6i0a22kg08ej3e62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
